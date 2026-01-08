@@ -1,0 +1,16 @@
+DATA QUALITY REPORT
+-------------------
+Customers records processed: 26
+Customers duplicates removed: 1
+Customers missing emails fixed: 5
+Customers records loaded: 25
+
+Products records processed: 20
+Products missing price removed: 3
+Products missing stock fixed: 1
+Products records loaded: 17
+
+Sales records processed: 41
+Sales duplicate transactions removed: 1
+Sales records with missing IDs removed: 6
+Sales records loaded: 35
