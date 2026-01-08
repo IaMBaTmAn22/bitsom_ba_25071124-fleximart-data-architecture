@@ -1,5 +1,5 @@
 # FlexiMart Data Architecture Project
-Student Name: Ganesh Bharadwaj
+Student Name: Ganesh Bharadwaj M K 
 Student ID: BITSoM_BA_25071124
 Email: ganeshb2208@gmail.com
 Date: 08-01-2026
