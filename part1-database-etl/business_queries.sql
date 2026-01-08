@@ -40,3 +40,4 @@ FROM orders o
 WHERE YEAR(o.order_date) = 2024
 GROUP BY MONTH(o.order_date), MONTHNAME(o.order_date)
 ORDER BY MONTH(o.order_date);
+
