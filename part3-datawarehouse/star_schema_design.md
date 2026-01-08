@@ -94,3 +94,4 @@ dim_product
 
 dim_customer
 { customer_key: 12, customer_name: 'John Doe', city: 'Mumbai' }
+
