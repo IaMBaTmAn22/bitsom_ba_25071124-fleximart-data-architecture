@@ -70,3 +70,4 @@ mongosh < part2-nosql/mongodb_operations.js
 
 1. Handling missing values and duplicate records during ETL was challenging, especially when enforcing database constraints.
 2. Designing realistic warehouse data while maintaining foreign key consistency required careful planning.
+
